@@ -1,2 +1,2 @@
-# TelerikAcademyHW
+# TelerikAcademy Homeworks
 Telerik Academy Homeworks
