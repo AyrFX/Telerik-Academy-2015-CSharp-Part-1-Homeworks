@@ -1,2 +1,1 @@
-# TelerikAcademy Homeworks
-Telerik Academy Homeworks
+# Telerik Academy C# Part 1 Homeworks
