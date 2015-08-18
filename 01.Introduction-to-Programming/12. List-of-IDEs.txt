@@ -1,0 +1,28 @@
+Popular Development Environments
+
+1. Oracle Netbeans
+Oracle Netbeans is designed for Java programming, but also supports other languages like C/C++, Ruby, HTML5, PHP and more. Netbeans
+is extremely extensible via its plugin-centric design, allowing adding of additional language syntax support and libraries, among other
+things.
+
+2. Eclipse
+Eclipse IDE is quite comprehensive and even similar to Netbeans in a variety of ways, including its use of Java and plugin architecture.
+However, Eclipse as an IDE comes in a wild variety of flavors, catering to various needs and objectives in software development workflows.
+
+3. Code::Blocks
+Unlike the other IDEs, Code::Blocks is exceptionally lightweight in size, yet still quite functional and feature-rich IDE. It allows
+loading up a number of under-the-hood compiler engines, ranging from GCC and LLVM to Digital Mars and Open Watcom. Code::Blocks also
+takes advantage of multi-core compiling.
+
+4. Aptana Studio 3
+Aptana supports PHP, Ruby on Rails, and Python as well as the likes of Adobe AIR. Even the studio itself is available as a plugin for
+Eclipse.
+
+5. SharpDevelop
+SharpDevelop is free IDE for C#, VB.NET and Boo projects on Microsoft's .NET platform. It supports development productivity tools,
+quality tools and more.
+
+Source:
+1. http://www.techrepublic.com/blog/five-apps/five-integrated-development-environment-applications/
+2. http://programmers.stackexchange.com/questions/5972/what-are-the-most-popular-ides-per-language
+3. http://www.icsharpcode.net/OpenSource/SD/Features.aspx
